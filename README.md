@@ -20,3 +20,7 @@ Toast.makeText(primarystage, toastMsg, toastMsgTime, fadeInTime, fadeOutTime);
 
 Also, here `PrimaryStage` is the stage where the toast message will be attached. If you have only one stage then primaryStage is the parameter of the method start of your application. 
 [Read more about this here](docs.oracle.com/javase/8/javafx/api/javafx/stage/Stage.html).
+
+## How to import in Project
+
+Simply go to release section, download the Java class or just copy paste the source code from here in your Javafx application.
