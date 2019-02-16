@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  A java class that can be used for Toast like popup messages in simple Java applications
+  A Java class that can be used for :bread: like popup messages in simple Java applications.
 </p> 
 
 ## Usage
