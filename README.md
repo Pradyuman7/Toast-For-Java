@@ -1,5 +1,7 @@
 # Toast-For-Java
 
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 <p align="center">
   <img width="250" height="250" src="https://user-images.githubusercontent.com/41565823/52897273-dd777f00-31d2-11e9-93e3-c30d8571e5d3.png">
 </p>
